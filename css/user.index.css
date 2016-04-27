@@ -1,0 +1,138 @@
+
+/* CSS Document */
+.w{width:990px}
+.left{float:left;width:150px;margin-right:10px}
+#my360buy .mt{height:32px;padding:0 6px;background:url(../images/index.png) #9E0000 no-repeat 0 0;line-height:32px;color:#fff;}
+.right{width:830px;float:right;}
+.right .tab{border-bottom:1px solid #edd28b;}
+.tab{padding-left:5px;border-bottom:2px solid #ffccaa;z-index:2;}
+.right .tab li{background-image:url(../images/tabindex.png);letter-spacing:1px}
+.right .tab li s,.right .tab li b{height:28px;background-image:url(../images/tabindex.png);}
+.right .tab li.curr,.right .tab li.curr a:link,.right .tab li.curr a:visited{color:#cc0000;font-weight:bold;letter-spacing:0}
+#userinfo{-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;padding:10px 10px 10px 5px}
+.user{float:left;text-align:center;}
+#userinfo .user{position:relative}
+.user .u-icon{background:url(../images/index.png) no-repeat -42px -33px;width:120px;height:116px;display:table-cell;vertical-align:middle;text-align:center;*display: block;*font-size: 87px;*font-family:Arial;}
+.user .u-icon img{margin-top:-5px;}
+*html .user .u-icon img{margin-top:4px}
+*+html .user .u-icon img{margin-top:4px}
+.picture,#mlist .p-img a,#mlist01 .p-img a{position:relative}
+.upper,.comment{position:absolute;background:#ffffff;filter:alpha(opacity=70);opacity:0.7;left:0;}
+.upper{height:20px;top:84px;left:10px;width:100px;overflow:hidden}
+#userinfo .extra .fore{ position:absolute;top:84px;width:100px;left:10px}
+.comment{height:55px;top:45px;width:100%;}
+.picture a,.comment01{ position:absolute;z-index:40;left:0;width:100%}
+.picture a{top:84px;*font-size:12px;}
+.comment01{top:47px;}
+#mlist .reco-list .p-img a,#mlist01 .reco-list .p-img a{display:block;height:100px;width:100px;margin:0 auto;border:1px solid #fff}
+#mlist .reco-list .p-img a:hover,#mlist01 .reco-list .p-img a:hover{border-color:#ccc;}
+.account,.acco-safe{overflow:hidden;zoom:1;margin-bottom:5px;line-height:23px}
+#i-userinfo{border-left:1px solid #ffeed6;padding-left:10px}
+.username{height:30px;line-height:25px;overflow:hidden;margin-bottom:3px}
+.username .extra{float:right;}
+.username strong{font-size:20px;color:#333333;font-weight:normal}
+.member{border:1px solid #ffeed6;background:#fff;height:23px;overflow:hidden;float:left;margin-right:10px;zoom:1}
+.memb-info{border-left:1px solid #ffeed6;color:#999;float:left;padding-left:4px;width:380px;overflow:hidden}
+.memb-info-01{width:155px}
+.member .close{border-left:1px solid #ffeed6;width:17px;text-align:center;float:left;height:23px;cursor:pointer;background:url(../images/index.png) no-repeat -47px -150px}
+.member .hover{background-position:-64px -150px}
+.rank{float:left;padding-right:4px}
+.acco-safe s,.account .fl s{display:inline-block;*zoom:1;margin-right:3px;width:16px;height:16px; vertical-align:middle;line-height:100px;font-size:0;overflow:hidden;background:url(../images/icon-veri.png) no-repeat}
+.account .fl s{width:22px;height:20px;background-position:-51px 0}
+.acco-safe a{margin-right:12px}
+.acco-safe .teln s{background-position:0 -17px}
+.acco-safe .mail s{background-position:-17px 0}
+.acco-safe .mailn s{background-position:-17px -17px}
+.acco-safe .spsd s{background-position:-34px 0}
+.acco-safe .spsdn s{background-position:-34px -17px}
+.rank s{float:left;width:16px;height:16px;background:url(../images/rank2011.gif);margin:3px 5px}
+.r2 s{background-position:0 -17px}
+.r3 s{background-position:0 -34px}
+.r4 s{background-position:0 -51px}
+.r5 s{background-position:0 -68px}
+.r6 s{background-position:0 -87px}
+.r7 s{background-position:0 -104px}
+.r8 s{background-position:0 -121px}
+.r9 s{background-position:0 -138px}
+.r10 s{background-position:0 -154px}
+.star s{width:64px;height:12px;background-image:url(../images/icon_clubs.gif);background-repeat:no-repeat;overflow:hidden;display:block;margin:0 auto}
+.sa0 s{background-position:-65px 0;}
+.sa1 s{background-position:-52px 0;}
+.sa2 s{background-position:-39px 0;}
+.sa3 s{background-position:-26px 0;}
+.sa4 s{background-position:-13px 0;}
+.sa5 s{background-position:0 0;}
+#remind{border:1px solid #ffeed6;background:#fff;padding:10px;overflow:hidden;zoom:1}
+#remind dl{border-top:1px solid #ffeed6;overflow:hidden;zoom:1;height:30px;line-height:30px}
+#remind .fore{border-top:none}
+#remind dl dt,#remind dl dd{float:left}
+#remind .oinfo{float:left;width:405px}
+#remind .oinfo dd{width:104px;padding-right:10px;}
+#remind .ainfo{width:220px;float:left;border-left:1px solid #ffeed6;padding-left:10px;margin-left:10px}
+#remind .ainfo .fore1{margin-right:30px}
+#reco-area{width:608px;float:left}
+#reco-area .p-price strong{font-weight:normal;color:#cc0000}
+#reco-area .mc{position:relative;height:183px;overflow:hidden}
+.mleft,.mright{position:absolute;width:30px;height:183px;top:0;z-index:10;cursor:pointer;background:#ffffff}
+.mleft{left:0;}
+.mright{right:0}
+.mleft s,.mright s{background:url(../images/index.png) no-repeat;width:21px;height:116px;margin-top:37px}
+.mleft s{background-position:0 -33px;float:right}
+.mright s{background-position:-20px -33px;float:left}
+.reco-list{padding:10px 30px 0}
+.reco-list li{float:left;width:142px;padding:0 18px;text-align:center;}
+.reco-list .p-img {height:104px}
+#reco-area .p-img .comment01 a{display:inline;border:none;}
+#reco-area .p-img .comment01 a:hover{border:none}
+#reco-area .p-img .comment01 .func a{display:inline-block;*zoom:1;background:url(../images/index.png) no-repeat -81px -150px;width:63px;height:21px;line-height:100px;overflow:hidden}
+#reco-area .p-img .comment01{color:#333333;}
+#reco-area .p-img a{ text-decoration:none}/
+#reco-area #mlist03 .reco-list li{width:232px}
+#mlist03 .p-info{text-align:left;line-height:22px}
+#mlist03 .p-info .p-price{color:#333;}
+#mlist03 li .p-buy strong,#mlist03 li .p-price strong{color:#FF6600;font-weight:bold}
+#mlist03 .p-name{height:54px;text-align:left;margin-bottom:5px}
+#mlist03 .p-img{float:left;margin-right:10px}
+#mlist03 .p-img img{border:1px solid #cccccc}
+#con-area{float:right;width:208px}
+#con-area .mc{padding:20px 0 20px 10px;height:143px}
+#buy-area table th{border-bottom:1px solid #e6e6e6;text-align:center}
+#buy-area .tb-void{overflow:visible}
+*html #buy-area .tb-void{margin:0}
+#buy-area .tb-void td{border-top-style:dotted;text-align:center}
+#order-list .img-list{text-align:left;width:220px;zoom:1;overflow:hidden}
+#order-list .img-list a{float:left;margin-right:5px;margin-top:2px;margin-bottom:2px}
+a.tooltip:link,a.tooltip:hover,a.tooltip:visited{position:relative;display:block;text-decoration:none;width:100%;z-index:2}
+.tooltip s{position:absolute;background:url(../images/icon.gif) -61px 0;width:8px;height:4px;margin-top:3px;line-height:0;font-size:0;line-height:0;overflow:hidden;top:3px}
+#buy-area,#buy-area .mc,#order-list{ overflow:visible}
+#buy-area .mc{margin-bottom:3px;border:none}
+#buy-area .mc .extra{text-align:right;padding:3px 10px 0 0}
+#stay-eval .p-name{height:auto;text-align:left;width:370px}
+#stay-eval .btn-8{margin-bottom:3px}
+#order-list .prompt-01{position:absolute;padding:9px;width:342px;left:-346px;top:-38px}
+#order-list .prompt-01 .pc{border:1px solid #ffe6bc;background:#fff;padding:10px;color:#333;text-align:left;overflow:hidden;zoom:1;min-height:235px;_height:235px}
+#order-list .prompt-01 .pc li a{color:#333;text-decoration:none}
+#order-list .prompt-01 .pc dl{border-bottom:1px solid #d7d6d6;line-height:16px;overflow:hidden;margin-bottom:5px}
+#order-list .prompt-01 .pc dt,#order-list .prompt-01 .fore1{width:140px;float:left}
+#order-list .prompt-01 .fore2{float:left;width:180px}
+#order-list .prompt-01 .pb{top:35px;right:0\9}
+#atte-area li{border-bottom:1px dotted #E6E6E6;padding:10px;line-height:48px;overflow:hidden;zoom:1}
+#atte-area li .u-icon{float:left;margin-right:10px;}
+#atte-area li .u-icon a{float:left;padding:3px;border:1px solid #e6e6e6}
+#atte-area li .u-icon img{width:40px;height:auto}
+#atte-area .t-info{float:left;width:450px;overflow:hidden;height:48px;overflow:hidden}
+#atte-area .t-info a{margin-right:8px}
+#atte-area .t-time{float:right;color:#999999;}
+*html #atte-area .t-time{width:80px;}
+*+html #atte-area .t-time{width:80px;}
+.uic-list{padding:0 10px;overflow:hidden}
+.uic-list li{float:left;margin-top:10px;width:33.3%;text-align:center}
+.uic-list li img{width:50px;height:auto}
+a.btn-again {background: url(../images/use.gif);display: block;height: 21px;line-height: 100px; margin: 3px auto 0;overflow: hidden;width: 72px;}
+a.btn-again:hover{background-position:0 -21px}
+#da-home img{width:150px;height:auto}
+.iloading{margin:76px auto 0}
+#order-list .close{position:absolute;right:3px;top:3px;background:url(../images/icon.gif) -81px -41px;width:19px;height:19px}
+#float-bar{margin-left:10px}
+#headcolse{display: none;}
+#headcon{padding: 0;border: 6px solid #999;}

@@ -1,0 +1,83 @@
+
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, code, del, em, font, img, ins, small, strong, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend { margin: 0pt; padding: 0pt; }
+ol, ul { list-style: none outside none; }
+:focus { outline: 0pt none; }
+a img { border: 0pt none; }
+img { vertical-align: middle; }
+h2 { font-size: 14px; }
+h5 { font-size: 12px; }
+.ftx13, .flk13 a:link, .flk13 a:visited, a.flk13:link, a.flk13:visited { color: rgb(0, 90, 160); }
+.ftx23, .flk23 a:link, .flk23 a:visited, a.flk23:link, a.flk23:visited { color: rgb(153, 153, 153); }
+.ftx24, .flk24 a:link, .flk24 a:visited, a.flk24:link, a.flk24:visited { color: rgb(102, 102, 102); }
+body { margin: 0pt auto; }
+.w { width: 980px; padding: 0pt; margin: 0pt auto; }
+body .fl { float: left; }
+.clr { display: block; overflow: hidden; clear: both; height: 0pt; line-height: 0; font-size: 0pt; }
+.hide { display: none; }
+.invisible { visibility: hidden; }
+.form label, .form input, .form select, .form textarea, .form button, .form .label { float: left; font-size: 12px; }
+.form .item { overflow: hidden; }
+.btn-img { cursor: pointer; overflow: hidden; margin: 0pt; padding: 0pt; border: 0pt none; text-align: center; }
+.btn-link { display: block; overflow: hidden; text-align: center; }
+.m, .mt, .mc, .mb { overflow: hidden; }
+body { font-family: Arial,"宋体",Lucida,Verdana,Helvetica,sans-serif; font-size: 12px; color: rgb(51, 51, 51); line-height: 150%; }
+a:link, a:visited { color: rgb(51, 51, 51); text-decoration: none; }
+a:hover, a:active { color: rgb(255, 0, 0); text-decoration: underline; }
+#shortcut { width: 100%; height: 30px; background: url('../images/bg_shortcut.gif') repeat-x scroll 0pt -134px rgb(239, 239, 239); }
+#shortcut .collect { float: left; position: relative; padding-left: 15px; line-height: 30px; }
+#shortcut .collect b { position: absolute; top: 9px; left: 2px; width: 10px; height: 10px; overflow: hidden; background: url('../images/bg_tit_home.gif') repeat scroll -130px -274px transparent; }
+#shortcut ul { float: right; position: relative; z-index: 11; background: url('../images/bg_shortcut.gif') repeat-x scroll 0pt -134px transparent; height: 30px; }
+#shortcut li { float: left; height: 26px; padding: 2px 8px; background: url('../images/bg_shortcut.gif') no-repeat scroll -260px -100px transparent; line-height: 26px; font-family: "宋体"; color: rgb(172, 172, 172); }
+#shortcut .fore1 { background: none repeat scroll 0% 0% transparent; }
+#shortcut .link-regist { color: rgb(255, 102, 0); }
+#shortcut .fore2 { padding-left: 50px; background: url('../images/bg_shortcut.gif') no-repeat scroll -130px -165px transparent; }
+#shortcut .sub { width: 72px; padding: 0pt; }
+#shortcut li dl { overflow: hidden; padding: 0pt 1px; }
+#shortcut li dt { position: relative; height: 26px; padding: 2px 11px 2px 8px; overflow: hidden; }
+#shortcut li dt b { position: absolute; top: 13px; right: 3px; width: 5px; height: 3px; background: url('../images/bg_shortcut.gif') no-repeat scroll -210px -25px transparent; }
+#shortcut li dd { display: none; line-height: 20px; padding-left: 8px; }
+#shortcut li:hover dl, #shortcut .hover dl { padding: 0pt; border-style: solid; border-color: rgb(204, 204, 204); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; border-width: 0pt 1px 1px; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+#shortcut li:hover dd, #shortcut .hover dd { display: block; }
+#shortcut li:hover b, #shortcut .hover b { background-position: -220px -25px; }
+#footer { padding: 20px 0pt 30px; text-align: center; }
+#footer .flinks a, #footer .flinks span { margin: 0pt 10px; }
+#footer .copyright { margin: 10px 0pt; font-family: arial; }
+#footer .ilinks a { margin: 0pt 5px; }
+#logo { padding: 10px 0pt; }
+/* ::::: https://passport.360buy.com/new/misc/skin/df/regist.entry.css ::::: */
+
+#entry .mt { height: 33px; background: url('../images/tit_regist.jpg') repeat-x scroll 0pt -34px rgb(209, 209, 209); }
+#entry .mt h2 { float: left; height: 33px; padding-left: 15px; background: url('../images/tit_regist.jpg') no-repeat scroll 0pt 0pt transparent; line-height: 33px; }
+#entry .mt b { float: right; width: 10px; height: 33px; background: url('../images/tit_regist.jpg') no-repeat scroll 0pt -68px transparent; }
+#entry .mc { padding: 40px 40px 30px; border-style: solid; border-color: rgb(209, 209, 209); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; border-width: 0pt 1px 1px; }
+#entry .form { float: left; width: 540px; overflow: hidden; }
+#entry .item { padding-top: 5px; height: 50px; line-height: 26px; }
+#entry #autoentry { height: 40px; }
+#entry .item a:link, #entry .item a:visited { text-decoration: underline; }
+#entry .label { width: 100px; text-align: right; font-size: 14px; }
+#entry .text { width: 240px; height: 16px; padding: 4px 3px; border: 1px solid rgb(187, 187, 187); font-size: 14px; font-family: arial,"宋体"; }
+#entry .text-1 { width: 100px; }
+#entry .blank { width: 16px; height: 16px; margin: 2px 5px 0pt; }
+#entry .mar { margin-right: 10px; }
+#entry .img img { height: 26px; margin: 0pt 5px; }
+#entry .btn-entry { width: 87px; height: 35px; background: url('../images/bg_regist.jpg') no-repeat scroll -155px -150px transparent; font-size: 14px; font-weight: bold; color: rgb(255, 255, 255); }
+#entry .null, #entry .error { color: red; line-height: 22px; }
+#entry .checkbox { margin-top: 6px; }
+#entry .extra { padding-left: 50px; padding-top: 30px; }
+#entry .extra .btns { float: left; position: relative; overflow: hidden; height: 14px; padding: 5px 0pt 5px 23px; margin-right: 4px; line-height: 14px; }
+#entry .extra .btns s { display: block; position: absolute; top: 0pt; left: 0pt; width: 23px; height: 23px; background-image: url('../images/icon_cooperation.jpg'); background-repeat: no-repeat; }
+#entry .extra .btns a:link, #entry .extra .btns a:visited { text-decoration: none; color: rgb(0, 90, 160); padding-right: 6px; border-right: 1px solid rgb(219, 219, 219); }
+#entry .extra .qq s { background-position: 0pt 0pt; }
+#entry .extra .renren s { background-position: -46px 0pt; }
+#entry .extra .net163 s { background-position: -69px 0pt; }
+#entry .extra .kaixing001 s { background-position: -92px 0pt; }
+#entry .extra .sina s { background-position: -115px 0pt; }
+#entry .extra .more { padding-left: 5px; }
+#entry .extra .more a:link, #entry .extra .more a:visited { border: medium none; }
+#guide { float: right; width: 300px; height: 290px; padding: 0px 0pt 20px 40px; border-left: 1px solid rgb(231, 231, 231); }
+#guide .content { color: rgb(102, 102, 102); padding: 10px 0pt 0pt; }
+#guide .btn-personal { width: 137px; height: 35px; background: url('../images/bg_regist.jpg') no-repeat scroll 0pt -186px transparent; line-height: 35px; margin: 35px auto 20px; font-weight: bold; font-size: 14px; }
+#guide .btn-personal:hover { text-decoration: none; }
+#guide .btns { border-top: 1px dotted rgb(204, 204, 204); padding-top: 15px; text-align: center; margin-bottom: 50px; }
+#guide .btns a:link, #guide .btns a:visited { margin: 0pt 10px; color: rgb(0, 90, 160); font-size: 14px; }
+#guide .app a { display: inline-block; height: 50px; width: 300px; background: url('../images/app.jpg') repeat scroll 0% 0% transparent; font-size: 0pt; line-height: 100px; overflow: hidden; }

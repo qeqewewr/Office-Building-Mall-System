@@ -1,0 +1,33 @@
+.friend_link 
+{
+}
+.friend_link_head {
+    background: url("../images/friend_link_headbg.jpg") no-repeat scroll 0 0 transparent;
+    color: #5B5B5B;
+    height: 24px;
+    width:100%;
+    padding: 8px 0 0 40px;
+    
+}
+.friend_link_body 
+{
+
+	
+    border: 1px solid #D2D2D2;
+    border-top-width:0;
+    padding: 11px 0 5px 9px;
+    width:200
+}
+.friend_link_body a {
+    color: #4B4B4B;
+}
+.friend_link_body li {
+    background: url("../images/li_blue.jpg") no-repeat scroll 0 8px transparent;
+    height: 15px;
+    margin: 0 0 11px;
+    padding-left: 10px;
+    list-style: none outside none;
+}
+.friend_link_body ul{
+    list-style: none outside none;
+}

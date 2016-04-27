@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="AjaxCustomerExist.aspx.cs" Inherits="User_AjaxCustomerExist" %>
